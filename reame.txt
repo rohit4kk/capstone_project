@@ -1,1 +1,2 @@
-hello i am typing this to create conflict.  
+
+hello i am typing this to create conflicts. this will fix the conflict
